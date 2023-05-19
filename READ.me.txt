@@ -1,2 +1,2 @@
 
-bu bir transkript uygulamasıdır.
+basit bir transkript uygulamasıdır.
